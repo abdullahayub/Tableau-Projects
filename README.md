@@ -1,6 +1,6 @@
 # Tableau-Projects
 
-## covid-19 India Dashboard Analysis
+## Project1: Covid-19 India Dashboard Analysis
 
 **Project Video**
 
